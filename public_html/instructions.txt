@@ -1,0 +1,3 @@
+Your content is on
+
+scp -r * panopg@ssh.caltech.edu:~/public_html/
